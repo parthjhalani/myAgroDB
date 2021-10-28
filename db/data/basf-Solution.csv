@@ -1,23 +1,23 @@
 solid;cropid_cropid;pestid_pestid;productid_productid;dosage;how_to_apply
 1;1;1;1;150 ml / acre;Apply preventatively at green-tip to petal fall stage (PHI of 42 days)
 2;2;1;1;100 ml / acre;Apply preventatively, first at pre-bloom stage and then again at berry development stage (PHI of  22 days)
-3;2;2;2;1 kg / acre;Apply at ponga stage (PHI of 66 days) 
-4;3;3;3;800 ml / acre;Apply at 2-3 leaf / 2-3 inch weed stage. Take out water from field, and ensure proper coverage as it is a contact herbicide. Apply solo or along with tank mix. Fill rice plot with water after 24 to 48 hours.
-5;3;4;3;800 ml / acre;Apply at 2-3 leaf / 2-3 inch weed stage. Take out water from field, and ensure proper coverage as it is a contact herbicide. Apply solo or along with tank mix. Fill rice plot with water after 24 to 48 hours.
-6;4;4;4;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
-7;4;5;4;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
-8;4;6;4;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
-9;4;7;4;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
-10;4;8;4;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
-11;4;9;4;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
-12;4;10;4;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
-13;4;11;4;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
-14;4;12;4;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
-15;5;13;4;2.5 L - 3 L / ha;Apply at active vegetative growth stage of weeds
-16;5;14;4;2.5 L - 3 L / ha;Apply at active vegetative growth stage of weeds
-17;5;15;4;2.5 L - 3 L / ha;Apply at active vegetative growth stage of weeds
-18;5;16;5;280 ml / acre ;Apply at the initiation of Jassids. Ensure complete coverage of the plant while spraying.
-19;5;17;5;400 ml / acre;Apply at initiation of whitefly. Spraying twice at an interval of 10 days offers good residual control against whiteflies. Ensure complete coverage of the plant while spraying
-20;6;16;5;400 ml / acre;Apply at the initiation of Jassids. Ensure complete coverage of the plant while spraying.
-21;6;17;5;400 ml / acre;Apply at initiation of whitefly. Spraying twice at an interval of 10 days offers good residual control against whiteflies. Ensure complete coverage of the plant while spraying
-22;7;17;5;400 ml / acre;Apply at initiation of whitefly. Spraying twice at an interval of 10 days offers good residual control against whiteflies. Ensure complete coverage of the plant while spraying
+3;2;2;3;1 kg / acre;Apply at ponga stage (PHI of 66 days) 
+4;3;3;5;800 ml / acre;Apply at 2-3 leaf / 2-3 inch weed stage. Take out water from field, and ensure proper coverage as it is a contact herbicide. Apply solo or along with tank mix. Fill rice plot with water after 24 to 48 hours.
+5;3;4;5;800 ml / acre;Apply at 2-3 leaf / 2-3 inch weed stage. Take out water from field, and ensure proper coverage as it is a contact herbicide. Apply solo or along with tank mix. Fill rice plot with water after 24 to 48 hours.
+6;4;4;2;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
+7;4;5;2;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
+8;4;6;2;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
+9;4;7;2;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
+10;4;8;2;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
+11;4;9;2;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
+12;4;10;2;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
+13;4;11;2;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
+14;4;12;2;2.5 L - 3.3 L / ha;Apply at active vegetative growth stage/flowering stage of weeds. Use a spray shield to prevent drift on tea plants.
+15;5;13;2;2.5 L - 3 L / ha;Apply at active vegetative growth stage of weeds
+16;5;14;2;2.5 L - 3 L / ha;Apply at active vegetative growth stage of weeds
+17;5;15;2;2.5 L - 3 L / ha;Apply at active vegetative growth stage of weeds
+18;5;16;6;280 ml / acre ;Apply at the initiation of Jassids. Ensure complete coverage of the plant while spraying.
+19;5;17;6;400 ml / acre;Apply at initiation of whitefly. Spraying twice at an interval of 10 days offers good residual control against whiteflies. Ensure complete coverage of the plant while spraying
+20;6;16;6;400 ml / acre;Apply at the initiation of Jassids. Ensure complete coverage of the plant while spraying.
+21;6;17;6;400 ml / acre;Apply at initiation of whitefly. Spraying twice at an interval of 10 days offers good residual control against whiteflies. Ensure complete coverage of the plant while spraying
+22;7;17;6;400 ml / acre;Apply at initiation of whitefly. Spraying twice at an interval of 10 days offers good residual control against whiteflies. Ensure complete coverage of the plant while spraying

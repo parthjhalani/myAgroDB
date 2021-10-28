@@ -7,4 +7,5 @@ service DataService {
     @readonly entity Pests as projection on basf.Pests;
     @readonly entity Crops as projection on basf.Crops;
     @readonly entity Solution as projection on basf.Solution;
+    @readonly entity ProductInfo as projection on basf.ProductInfo;
 }

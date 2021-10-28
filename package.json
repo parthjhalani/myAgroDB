@@ -1,9 +1,9 @@
 {
-  "name": "MyNew",
+  "name": "BASFCAIChatbot",
   "version": "1.0.0",
-  "description": "A simple CAP project.",
+  "description": "BASF CAI Chatbot",
   "repository": "<Add your repository here>",
-  "license": "UNLICENSED",
+  "license": "LICENSED",
   "private": true,
   "dependencies": {
     "@sap/cds": "^5",
@@ -22,7 +22,8 @@
       "es2020": true,
       "node": true,
       "jest": true,
-      "mocha": true
+      "mocha": true,
+      "DEBUG": "sqlite"
     },
     "globals": {
       "SELECT": true,
